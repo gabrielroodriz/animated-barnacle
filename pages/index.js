@@ -10,6 +10,7 @@ const Page = () => {
 					<Heading as='h2' variant='page-title'>
 						Gabriel Rodrigues
 					</Heading>
+					<p> Digital Craftzman ( Artist / Developer / Designer )</p>
 				</Box>
 			</Box>
 		</Container>
